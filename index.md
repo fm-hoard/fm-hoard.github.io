@@ -1,7 +1,8 @@
 ---
-title: About Alembic
+title: FM Hoard
 feature_text: |
   ## FM Hoard
+  A feature model repository for testing analysis tools.
 feature_image: "https://unsplash.it/1300/400?image=971"
 image: "https://unsplash.it/600/400?image=971"
 ---
